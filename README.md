@@ -11,3 +11,4 @@ Known bugs:
 3. The artwork leaves something to be desired
 4. There is the color 0xb8e323 around the sprite this is the transparency color, will look into it, 
 5. More work needs to be done to implement the gamepad code
+6. the palette file is not used by the pogram but it will complain if it is not present.
