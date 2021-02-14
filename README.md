@@ -8,7 +8,7 @@
   Note: The bkground1.gfx file in bkground1.zip was too large to updload to GitHub so I had to zip it first.
 
 Known bugs:
-1. Vibration on gamepad turns on and is difficult to turn off, work aroudn press x on gamepad to terminte the program
+1. Vibration on gamepad turns on and is difficult to turn off, work around is to press x on gamepad to terminte the program
 2. Background is not scrolling as it should
 3. The artwork leaves something to be desired
 4. There is the color 0xb8e323 around the sprite this is the transparency color, will look into it, 
