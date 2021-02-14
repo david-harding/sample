@@ -4,6 +4,8 @@
 3. press x on a gamepad controller to terminate the program
 4. press escape on a computer keyboard to terminate the sample program
 5. looks best on a samsung tv or eqivalent
+6. Unzip Bkground1.zip and replace the exiting bkground1.gfx that was already extracted
+  Note: The bkground1.gfx file in bkground1.zip was too large to updload to GitHub so I had to zip it first.
 
 Known bugs:
 1. Vibration on gamepad turns on and is difficult to turn off, work aroudn press x on gamepad to terminte the program
